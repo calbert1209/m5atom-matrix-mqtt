@@ -77,5 +77,4 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 # Secrets
-config.json
 secrets.py
