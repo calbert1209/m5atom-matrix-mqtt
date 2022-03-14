@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MicroPythonTest.iml" filepath="$PROJECT_DIR$/.idea/MicroPythonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/m5atom-matrix-mqtt.iml" filepath="$PROJECT_DIR$/.idea/m5atom-matrix-mqtt.iml" />
     </modules>
   </component>
 </project>
